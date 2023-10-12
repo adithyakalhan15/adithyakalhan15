@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adithya Kalhan</h1>
 <h3 align="center">A passionate Electrical & Electronic Undergraduate from Sri Lanka.</h3>
-<img src="https://www.freepik.com/free-vector/printed-circuit-board-concept-illustration_12704361.htm#query=Electronic&position=29&from_view=search&track=sph" alt="main image" width="100" />
+<img src="[https://www.freepik.com/free-vector/printed-circuit-board-concept-illustration_12704361.htm#query=Electronic&position=29&from_view=search&track=sph](https://img.freepik.com/free-vector/printed-circuit-board-concept-illustration_114360-5139.jpg?w=740&t=st=1697149601~exp=1697150201~hmac=f1c7711e30f810b568b0677e418f1f19bcccbab35afb4169cc4cc3e4f420b760)" alt="main image" width="100" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adithyakalhan15&label=Profile%20views&color=0e75b6&style=flat" alt="adithyakalhan15" /> </p>
 
